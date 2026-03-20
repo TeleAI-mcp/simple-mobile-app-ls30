@@ -1,2 +1,3 @@
-# simple-mobile-app-ls30
-Automated issue comment bot repository
+# Simple Mobile App Ls30
+
+Automated issue comment bot repository.
